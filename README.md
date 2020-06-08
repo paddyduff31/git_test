@@ -1,1 +1,1 @@
-This is Paddy Duffs first git project!
+Using the Odin project to further advance my knowledge!
